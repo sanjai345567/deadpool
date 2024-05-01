@@ -1,0 +1,3 @@
+[submodule "spider"]
+	path = spider
+	url = https://github.com/sanjai345567/spider.git
